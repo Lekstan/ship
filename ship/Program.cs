@@ -10,7 +10,7 @@ namespace ship
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Battleships game!");
+            Console.WriteLine("Battleships game");
 
             char[,] player1ShipBoard = InitializeBoard();
             char[,] player1TargetBoard = InitializeBoard();
