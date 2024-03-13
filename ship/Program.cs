@@ -36,8 +36,8 @@ namespace ship
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"An error occurred: {ex.Message}");
-                Console.WriteLine("Press Enter to continue...");
+                Console.WriteLine($"Zle dane: {ex.Message}");
+                Console.WriteLine("Wpisz ponownie");
                 Console.ReadLine();
                 Main(args); 
             }
