@@ -1,0 +1,7 @@
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\bin\Debug\ship.exe.config
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\bin\Debug\ship.exe
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\bin\Debug\ship.pdb
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\obj\Debug\ship.csproj.AssemblyReference.cache
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\obj\Debug\ship.csproj.CoreCompileInputs.cache
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\obj\Debug\ship.exe
+C:\Users\Damia\OneDrive\Pulpit\ship\ship\ship\obj\Debug\ship.pdb
